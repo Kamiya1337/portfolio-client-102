@@ -82,12 +82,12 @@ export default function HomeTab({ setActiveTab }) {
                 <div className="relative overflow-hidden rounded-2xl">
                   <img
                     src="/avatar.jpg"
-                    alt="Trần Đỗ Khánh Cẩm"
+                    alt="Trần Đỗ Khánh Cầm"
                     className="h-72 w-full object-cover grayscale-[15%] hover:grayscale-0 transition-all duration-500"
                   />
 
                   <span className="absolute bottom-3 left-3 rounded-lg bg-slate-950/90 border border-white/10 px-3 py-2 text-xs font-bold text-slate-200 shadow-sm backdrop-blur-sm">
-                    Trần Đỗ Khánh Cẩm
+                    Trần Đỗ Khánh Cầm
                   </span>
                 </div>
               </div>

@@ -28,7 +28,7 @@ export default function Sidebar({ activeTab, setActiveTab, isMobileOpen, setIsMo
           <div className="flex items-center gap-3 mb-2">
             <div className="w-11 h-11 rounded-full bg-gradient-to-tr from-[#8D7794] to-[#DACBE8] flex items-center justify-center text-white font-bold text-sm tracking-wide shadow-lg ring-2 ring-[#DACBE8]/20">KC</div>
             <div>
-              <h2 className="text-xl font-bold text-white leading-tight">Trần Đỗ Khánh Cẩm</h2>
+              <h2 className="text-xl font-bold text-white leading-tight">Trần Đỗ Khánh Cầm</h2>
               <span className="text-xs text-[#DACBE8] font-medium">Ngôn ngữ Hàn Quốc</span>
               <span className="block text-[11px] text-slate-400 mt-0.5">ULIS - VNU</span>
             </div>
